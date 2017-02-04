@@ -1,7 +1,9 @@
-Shout out to Kelly for my blog being live!
+![PairPlot](/images/Unknown-16.png)
 
 In this project we were given a data set on several thousand loans and asked to build an algorithm that would predict whether
 the loan would default or not. It was the first project that we have gone from start to finish alone and we were given relative free reign on how to structure our EDA and model- that's what made this project satisfying to complete. 
+
+
 
 To begin I pulled in the data from the csv file we were given. With the data imported, I began by printing out the dataframe and 
 selecting the columns of the dataframe that I would need for visualizing and modeling the data. With the data I needed, I began 
