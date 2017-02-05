@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: Data Scientist, Finance Professional, International Experience
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Always interested in  exciting opportunities. Reach me at:
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[kyle.m.stanley16@gmail.com](mailto:kyle.m.stanley16@gmail.com)
