@@ -1,4 +1,4 @@
-![LC](/images/LendingClum.png)
+![LC](/images/LendingClub.png)
 
 Here I have built a model to predict whether a loan will default or not using data from Lending Club, an innovative peer-to-peer lending company. The dataset contains information on several thousands of loans, mostly basic financial and personal details. The model employs a logistic regression using Bayesian inference. 
 
