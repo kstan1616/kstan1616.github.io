@@ -28,7 +28,9 @@ g(x)= ω0 + ω1(income) + ω2(dti) + ω3(interest) + ω4(term) + ω5(funded) + �
 
 Using the functions I now was able to run the Monte Carlo-Markov Chain to sample from my posterior distribution. This returns the most likely values for my hyperparameters. 
 
-With the values for my parameters I continued on to predict the outcome of several lines of data, from which I also had the information of the loan status, and thus could verify if the model worked well or not. I found that my model does give higher probability to customers paying when they do (true positives) than customers defaulting, but the probability estimate is greater than 50% (the amount of defaults in the dataset) so there would be many false positives. 
- 
+![corner](/images/LCcorner.png)
 
+With the values for my parameters I continued on to predict the outcome of several lines of data, from which I also had the information of the loan status, and thus could verify if the model worked well or not. I found that my model does give higher probability to customers paying when they do (true positives) than customers defaulting, but the probability estimate is greater than 50% (the amount of defaults in the dataset) so there would be many false positives.
+ 
+![confusion](/images/LCconfusion.png)
 
