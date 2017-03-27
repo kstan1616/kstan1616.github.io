@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Data Scientist, Finance Professional, International Experience
+title: Data Science Immersive Associate Instuctor at General Assembly
 permalink: /about/
 ---
 
 
-### Always interested in  exciting opportunities. Reach me at:
+### Reach me at:
 
 [kyle.m.stanley16@gmail.com](mailto:kyle.m.stanley16@gmail.com)
