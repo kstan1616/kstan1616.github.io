@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I am a Data Science Immersive Associate Instuctor at General Assembly
+title: Data Science Immersive Associate Instuctor at General Assembly
 permalink: /about/
 ---
 
